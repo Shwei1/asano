@@ -1,3 +1,3 @@
 # Imai-Asano Rectilinear Polygon Partitioning Algorithm
 
-![Preview][./images/img.png]
+![Preview](./images/img.png)
